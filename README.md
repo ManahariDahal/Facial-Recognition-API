@@ -1,3 +1,6 @@
+This project was created with ReactJS for front-end, Node.js/Express.js for backend and MongoDB for database.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
